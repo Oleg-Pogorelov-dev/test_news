@@ -1,0 +1,9 @@
+.header {
+  background: #b0bed2;
+  display: flex;
+  justify-content: center;
+}
+
+.img {
+  height: 100px;
+}
